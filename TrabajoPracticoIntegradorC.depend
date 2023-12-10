@@ -1,0 +1,5222 @@
+# depslib dependency file v1.0
+1663175119 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\cuil.h
+
+1663175094 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1664570868 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Cuil.h"
+	"util.h"
+
+1664491534 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1664489633 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+
+1664489633 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1664491535 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1664819579 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+
+1664819579 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+
+1664819387 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+
+1664819457 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\domicilio.h
+
+1664819474 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+
+1664819717 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1664819782 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1664570390 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\dimensiones.h
+
+1664819896 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1664819869 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1664820018 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1664570390 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\fecha.h
+
+1664820077 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1664570868 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\horario.h
+
+1664820684 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+
+1664820424 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1664820720 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+
+1664570390 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\vehiculo.h
+
+1664820891 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1664570390 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegradorc\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1665445847 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+
+1665433823 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\util.h
+	<stdio.h>
+	<stdlib.h>
+	"Chofer.h"
+
+1665439796 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1664821945 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\domicilio.h
+
+1665440163 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+
+1665429083 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+
+1665425524 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+
+1664821945 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1664821945 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\dimensiones.h
+
+1664821945 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1664821945 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1664821945 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\fecha.h
+
+1664821945 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1664821945 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\horario.h
+
+1665423904 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1664821945 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1664821945 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+
+1664821945 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1664821945 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1664821945 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1665183988 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1664821945 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+
+1664821945 c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\vehiculo.h
+
+1664821945 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+
+1665423583 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1665433823 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+
+1665445981 source:c:\users\asus\desktop\programacion de computadoras sistemas\trabajopracticointegrador\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+
+1666008736 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+
+1665433823 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\util.h
+	<stdio.h>
+	<stdlib.h>
+	"Chofer.h"
+
+1665440163 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+
+1665439796 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1664821945 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\domicilio.h
+
+1667059819 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+
+1667062164 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+
+1665423583 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1664821945 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1664821945 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\dimensiones.h
+
+1664821945 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1664821945 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1664821945 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\fecha.h
+
+1664821945 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1664821945 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\horario.h
+
+1665433823 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+
+1665423904 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1664821945 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1664821945 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+
+1664821945 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1664821945 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1664821945 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1665183988 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1664821945 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+
+1664821945 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\vehiculo.h
+
+1667062353 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+
+1664821945 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+
+1667048070 source:c:\users\asus\desktop\trabajopracticointegrador\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+
+1667590935 c:\users\asus\desktop\trabajopracticointegrador\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1667590639 c:\users\asus\desktop\trabajopracticointegrador\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+
+1667048070 c:\users\asus\desktop\trabajopracticointegrador\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1667048072 c:\users\asus\desktop\trabajopracticointegrador\domicilio.h
+
+1667048070 source:c:\users\asus\desktop\trabajopracticointegrador\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+
+1667048070 c:\users\asus\desktop\trabajopracticointegrador\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+
+1667048070 source:c:\users\asus\desktop\trabajopracticointegrador\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1667048070 source:c:\users\asus\desktop\trabajopracticointegrador\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1667048070 c:\users\asus\desktop\trabajopracticointegrador\dimensiones.h
+
+1667048070 source:c:\users\asus\desktop\trabajopracticointegrador\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1667048072 source:c:\users\asus\desktop\trabajopracticointegrador\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1667048072 c:\users\asus\desktop\trabajopracticointegrador\fecha.h
+
+1667048072 source:c:\users\asus\desktop\trabajopracticointegrador\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1667048072 c:\users\asus\desktop\trabajopracticointegrador\horario.h
+
+1667048072 source:c:\users\asus\desktop\trabajopracticointegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+
+1667048072 source:c:\users\asus\desktop\trabajopracticointegrador\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1667048072 c:\users\asus\desktop\trabajopracticointegrador\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1667048072 source:c:\users\asus\desktop\trabajopracticointegrador\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+
+1667048072 c:\users\asus\desktop\trabajopracticointegrador\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1667048074 source:c:\users\asus\desktop\trabajopracticointegrador\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1667048074 c:\users\asus\desktop\trabajopracticointegrador\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1667048074 source:c:\users\asus\desktop\trabajopracticointegrador\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1667048074 c:\users\asus\desktop\trabajopracticointegrador\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+
+1667048074 c:\users\asus\desktop\trabajopracticointegrador\vehiculo.h
+
+1667590691 source:c:\users\asus\desktop\trabajopracticointegrador\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+
+1667048074 source:c:\users\asus\desktop\trabajopracticointegrador\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+
+1667859434 source:c:\users\aula11\desktop\trabajopracticointegrador\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1667590935 c:\users\aula11\desktop\trabajopracticointegrador\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1667048070 c:\users\aula11\desktop\trabajopracticointegrador\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1667048072 c:\users\aula11\desktop\trabajopracticointegrador\domicilio.h
+
+1667859423 c:\users\aula11\desktop\trabajopracticointegrador\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1667048070 source:c:\users\aula11\desktop\trabajopracticointegrador\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+
+1667048070 c:\users\aula11\desktop\trabajopracticointegrador\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+
+1667857917 source:c:\users\aula11\desktop\trabajopracticointegrador\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1667048070 source:c:\users\aula11\desktop\trabajopracticointegrador\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1667048070 c:\users\aula11\desktop\trabajopracticointegrador\dimensiones.h
+
+1667048070 source:c:\users\aula11\desktop\trabajopracticointegrador\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1667048072 source:c:\users\aula11\desktop\trabajopracticointegrador\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1667048072 c:\users\aula11\desktop\trabajopracticointegrador\fecha.h
+
+1667048072 source:c:\users\aula11\desktop\trabajopracticointegrador\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1667048072 c:\users\aula11\desktop\trabajopracticointegrador\horario.h
+
+1667859647 source:c:\users\aula11\desktop\trabajopracticointegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1667048072 source:c:\users\aula11\desktop\trabajopracticointegrador\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1667048072 c:\users\aula11\desktop\trabajopracticointegrador\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1667048072 source:c:\users\aula11\desktop\trabajopracticointegrador\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+
+1667048072 c:\users\aula11\desktop\trabajopracticointegrador\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1667048074 source:c:\users\aula11\desktop\trabajopracticointegrador\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1667048074 c:\users\aula11\desktop\trabajopracticointegrador\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1667048074 source:c:\users\aula11\desktop\trabajopracticointegrador\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1667048074 c:\users\aula11\desktop\trabajopracticointegrador\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+
+1667048074 c:\users\aula11\desktop\trabajopracticointegrador\vehiculo.h
+
+1667048074 source:c:\users\aula11\desktop\trabajopracticointegrador\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+
+1667859689 source:c:\users\aula11\desktop\trabajopracticointegrador\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+
+1667858802 source:c:\users\aula11\desktop\trabajopracticointegrador\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1653682396 c:\users\aula11\desktop\trabajopracticointegrador\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1667934728 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1667576534 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1667033670 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\domicilio.h
+
+1667923929 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1653667996 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1667934728 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1667033670 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+
+1667933984 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+	"Lista.h"
+
+1667933984 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1667033670 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\dimensiones.h
+
+1667033670 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1667033672 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\fecha.h
+
+1667033672 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\horario.h
+
+1667840802 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1667841646 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1667033672 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1667933984 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1667033674 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1667033674 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1667033674 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1667033674 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+
+1667033674 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\vehiculo.h
+
+1667934877 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+
+1667933984 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\trabajopracticointegrador7del11\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1667934728 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1667946796 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1667033670 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\domicilio.h
+
+1667576534 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1653667996 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1667946793 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1667933984 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1667033670 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\dimensiones.h
+
+1667033670 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1667033672 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\fecha.h
+
+1667033672 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\horario.h
+
+1667840802 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1667841646 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1667033672 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1667933984 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1667033672 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1667033674 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1667033674 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1667033674 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1667033674 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+
+1667923929 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1667033674 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\vehiculo.h
+
+1667933984 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1667938919 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+
+1667939736 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\nuevotrabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1667951547 source:e:\desktop\n2trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\domicilio.h
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\dimensiones.h
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\fecha.h
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\horario.h
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1667947833 source:e:\desktop\n2trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1667947834 source:e:\desktop\n2trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1667947833 e:\desktop\n2trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+
+1667949448 e:\desktop\n2trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1667951353 source:e:\desktop\n2trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+
+1667951198 source:e:\desktop\n2trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1667951547 source:e:\desktop\n3trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\domicilio.h
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\dimensiones.h
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\fecha.h
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\horario.h
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1667947833 source:e:\desktop\n3trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1667947834 source:e:\desktop\n3trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1667947833 e:\desktop\n3trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+
+1667949448 e:\desktop\n3trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1667951353 source:e:\desktop\n3trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+
+1667951761 source:e:\desktop\n3trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1667951548 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\domicilio.h
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+
+1668019323 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\dimensiones.h
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\fecha.h
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\horario.h
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1667947836 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+
+1667949450 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668019996 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+
+1667951958 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n3trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668019323 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\dimensiones.h
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\domicilio.h
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\fecha.h
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\horario.h
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668027029 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1667947834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1667947836 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1668027734 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+
+1667947834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1667949450 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668025585 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+
+1668026160 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668026160 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668026160 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1668025849 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+
+1668027029 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n4trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668008160 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\domicilio.h
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668009028 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668009028 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668001322 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1667929834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\dimensiones.h
+
+1667929834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1667929834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\fecha.h
+
+1667929834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\horario.h
+
+1667929834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1667929834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1667929834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1667929834 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1667929834 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668008160 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1667931450 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668010330 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1668007584 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+
+1668130281 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668128920 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668130179 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\n6originaltrabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\domicilio.h
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\dimensiones.h
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\fecha.h
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\horario.h
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668273288 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+
+1668273288 e:\desktop\new folder (2)\n7trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668274917 e:\desktop\new folder (2)\n7trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668274750 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668274560 source:e:\desktop\new folder (2)\n7trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\domicilio.h
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\dimensiones.h
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\fecha.h
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\horario.h
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+
+1668255288 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668255288 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668296882 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668295209 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668256916 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668301551 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668256870 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668293327 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n7casiarchivostrabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668350471 source:e:\desktop\n8trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668347944 e:\desktop\n8trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668347943 e:\desktop\n8trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668347944 e:\desktop\n8trabajopracticointegrador7\domicilio.h
+
+1668347944 e:\desktop\n8trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668347944 e:\desktop\n8trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668347944 e:\desktop\n8trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668347943 source:e:\desktop\n8trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668347944 e:\desktop\n8trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668347944 source:e:\desktop\n8trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668347943 source:e:\desktop\n8trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668347944 e:\desktop\n8trabajopracticointegrador7\dimensiones.h
+
+1668347943 source:e:\desktop\n8trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668347943 source:e:\desktop\n8trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668347944 e:\desktop\n8trabajopracticointegrador7\fecha.h
+
+1668347943 source:e:\desktop\n8trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668347944 e:\desktop\n8trabajopracticointegrador7\horario.h
+
+1668347943 source:e:\desktop\n8trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668347944 source:e:\desktop\n8trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668347944 source:e:\desktop\n8trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668347944 source:e:\desktop\n8trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1668347943 e:\desktop\n8trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+
+1668347943 source:e:\desktop\n8trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668347943 e:\desktop\n8trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668347944 source:e:\desktop\n8trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668347943 e:\desktop\n8trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668347943 e:\desktop\n8trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668349221 source:e:\desktop\n8trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668347944 source:e:\desktop\n8trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668332470 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668329944 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668329942 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668329944 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\domicilio.h
+
+1668329944 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668329944 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668329944 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668329942 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668329944 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668329944 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668329942 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668329944 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\dimensiones.h
+
+1668329942 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668329942 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668329944 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\fecha.h
+
+1668329942 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668329944 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\horario.h
+
+1668329942 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668329944 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668329944 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668382617 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1668382617 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+
+1668329942 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668329942 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668383412 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668382562 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668329942 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668329944 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668385410 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n9trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\domicilio.h
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668386820 e:\desktop\n10trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668386820 source:e:\desktop\n10trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\dimensiones.h
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\fecha.h
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668386820 e:\desktop\n10trabajopracticointegrador7\horario.h
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668386820 source:e:\desktop\n10trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668386820 source:e:\desktop\n10trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668386820 source:e:\desktop\n10trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1668386820 e:\desktop\n10trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668386821 e:\desktop\n10trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668386820 source:e:\desktop\n10trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668386821 source:e:\desktop\n10trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668386821 source:e:\desktop\n11trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\domicilio.h
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668386821 source:e:\desktop\n11trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668386820 e:\desktop\n11trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668386820 source:e:\desktop\n11trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668386821 source:e:\desktop\n11trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\dimensiones.h
+
+1668386821 source:e:\desktop\n11trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668386821 source:e:\desktop\n11trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\fecha.h
+
+1668386821 source:e:\desktop\n11trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668386820 e:\desktop\n11trabajopracticointegrador7\horario.h
+
+1668386821 source:e:\desktop\n11trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668386820 source:e:\desktop\n11trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668386820 source:e:\desktop\n11trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668391222 source:e:\desktop\n11trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1668386820 e:\desktop\n11trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+
+1668386821 source:e:\desktop\n11trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668386821 source:e:\desktop\n11trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668394221 source:e:\desktop\n11trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668386821 e:\desktop\n11trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668394484 source:e:\desktop\n11trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\domicilio.h
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\dimensiones.h
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\fecha.h
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\horario.h
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668373222 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668376220 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668368820 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668368820 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n12trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668401309 source:e:\desktop\n13trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668401309 e:\desktop\n13trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668401309 e:\desktop\n13trabajopracticointegrador7\domicilio.h
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668401309 source:e:\desktop\n13trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\dimensiones.h
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\fecha.h
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\horario.h
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668401309 source:e:\desktop\n13trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668401308 e:\desktop\n13trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668401309 e:\desktop\n13trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668405571 e:\desktop\n13trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668401308 source:e:\desktop\n13trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668405098 source:e:\desktop\n13trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668427390 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\domicilio.h
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668427716 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\dimensiones.h
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\fecha.h
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\horario.h
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668387588 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+	"Cliente.h"
+
+1668387570 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668427906 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n14trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668427390 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\domicilio.h
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668427716 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\dimensiones.h
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\fecha.h
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\horario.h
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668387588 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+	"Cliente.h"
+
+1668387570 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668444851 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668446277 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668383308 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668447401 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668383308 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n15trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668461440 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668460901 c:\users\aula11\desktop\n16trabajopracticointegrador7\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668461412 c:\users\aula11\desktop\n16trabajopracticointegrador7\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\domicilio.h
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668409716 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\dimensiones.h
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\fecha.h
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\horario.h
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668369588 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+	"Cliente.h"
+
+1668369570 c:\users\aula11\desktop\n16trabajopracticointegrador7\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668426850 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668428276 c:\users\aula11\desktop\n16trabajopracticointegrador7\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668365308 c:\users\aula11\desktop\n16trabajopracticointegrador7\vehiculo.h
+	"Lista.h"
+
+1668429400 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668365308 source:c:\users\aula11\desktop\n16trabajopracticointegrador7\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\domicilio.h
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\dimensiones.h
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\fecha.h
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\horario.h
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+	"Cliente.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668527046 e:\desktop\n17trabajopracticointegrador7 - copia\vehiculo.h
+	"Lista.h"
+
+1668527046 source:e:\desktop\n17trabajopracticointegrador7 - copia\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668529560 source:e:\desktop\n17trabajopracticointegrador7 - copia\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\domicilio.h
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\dimensiones.h
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\fecha.h
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\horario.h
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668557803 source:e:\desktop\n18trabajopracticointegrador datos precargados\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+	"Cliente.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668527046 e:\desktop\n18trabajopracticointegrador datos precargados\vehiculo.h
+	"Lista.h"
+
+1668695579 source:e:\desktop\n18trabajopracticointegrador datos precargados\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668527046 source:e:\desktop\n18trabajopracticointegrador datos precargados\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 e:\desktop\n20trabajopracticointegrador\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 e:\desktop\n20trabajopracticointegrador\domicilio.h
+
+1668527046 e:\desktop\n20trabajopracticointegrador\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\dimensiones.h
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\fecha.h
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\horario.h
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668557803 source:e:\desktop\n20trabajopracticointegrador\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+	"Cliente.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668696254 source:e:\desktop\n20trabajopracticointegrador\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668527046 e:\desktop\n20trabajopracticointegrador\vehiculo.h
+	"Lista.h"
+
+1668527046 source:e:\desktop\n20trabajopracticointegrador\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668703679 source:e:\desktop\n20trabajopracticointegrador\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 e:\desktop\n22trabajopracticointegrador\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 e:\desktop\n22trabajopracticointegrador\domicilio.h
+
+1668527046 e:\desktop\n22trabajopracticointegrador\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668703679 source:e:\desktop\n22trabajopracticointegrador\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\dimensiones.h
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\fecha.h
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\horario.h
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668557803 source:e:\desktop\n22trabajopracticointegrador\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+	"Cliente.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668696254 source:e:\desktop\n22trabajopracticointegrador\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668527046 e:\desktop\n22trabajopracticointegrador\vehiculo.h
+	"Lista.h"
+
+1668527046 source:e:\desktop\n22trabajopracticointegrador\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668793427 source:e:\desktop\n22trabajopracticointegrador\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\domicilio.h
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668685678 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\dimensiones.h
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\fecha.h
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\horario.h
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668775724 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+	"Cliente.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668678254 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\vehiculo.h
+	"Lista.h"
+
+1668798318 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n23trabajopracticointegrador\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Cuil.h"
+	"Domicilio.h"
+	"Chofer.h"
+	"Lista.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\cuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\domicilio.h
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\chofer.h
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"Cliente.h"
+	"util.h"
+	"Lista.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	"Cuil.h"
+	"Domicilio.h"
+	"Lista.h"
+
+1668685678 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\cuil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"util.h"
+	"Cuil.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\dimensiones.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Dimensiones.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\dimensiones.h
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Domicilio.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Fecha.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\fecha.h
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\horario.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"Horario.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\horario.h
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cuil.h"
+	"util.h"
+	"Cliente.h"
+	"Lista.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"util.h"
+
+1668775724 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\paquete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Paquete.h"
+	"util.h"
+	"Lista.h"
+	"Cliente.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\paquete.h
+	"Dimensiones.h"
+	"Domicilio.h"
+	"Horario.h"
+	"Fecha.h"
+	<stdbool.h>
+	"Lista.h"
+	"Cliente.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+	"util.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1668678254 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\reparto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"Reparto.h"
+	"Chofer.h"
+	"Domicilio.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+	"Paquete.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\reparto.h
+	"Chofer.h"
+	"Vehiculo.h"
+	"Fecha.h"
+	"Paquete.h"
+	"Horario.h"
+	"Lista.h"
+	"Pila.h"
+
+1668509046 c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\vehiculo.h
+	"Lista.h"
+
+1668509046 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Vehiculo.h"
+	"util.h"
+	"Lista.h"
+
+1668799646 source:c:\users\gtx computacion\documents\unla\programacióndecomputadoras\segundocuatri\trabajogrupalprogramación\n24trabajopracticointegrador\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"Chofer.h"
+	"Cliente.h"
+	"Vehiculo.h"
+	"Domicilio.h"
+	"Dimensiones.h"
+	"Fecha.h"
+	"Horario.h"
+	"Paquete.h"
+	"Cuil.h"
+	"Reparto.h"
+
